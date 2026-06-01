@@ -131,6 +131,7 @@ Search utility.
 What is pipe?
 
 Transfers output from one command to another.
+-------------------------------------------------------------------
 
 Experiment 2: Git Staging, Commit and Push
 Objective
@@ -211,7 +212,8 @@ Local Repository
        ↓
 git push
        ↓
-GitHub Repository
+GitHub 
+-------------------------------------------------------------
 Experiment 3: Branching and Forking
 Objective
 
@@ -262,6 +264,7 @@ Difference
 Branch	Fork
 Same repository	Different repository
 Internal development	External contribution
+------------------------------------------------------------
 Experiment 4: Jenkins CI/CD
 Objective
 
@@ -320,6 +323,7 @@ Build
 Test
 ↓
 Deploy
+------------------------------------------------
 Experiment 5: Docker Commands
 Objective
 
@@ -357,6 +361,7 @@ Docker Image
 docker run
       ↓
 Docker Container
+-----------------------------------------------------
 Experiment 6: Docker Containerization
 Objective
 
@@ -403,6 +408,8 @@ Docker Image
 docker run
      ↓
 Docker Container
+------------------------------------------------------------
+
 Experiment 7: Maven Build Lifecycle
 Objective
 
@@ -462,7 +469,9 @@ Test
       ↓
 Package
       ↓
+
 Install
+---------------------------------------------------------------
 Experiment 8: Selenium Testing
 Objective
 
@@ -504,7 +513,8 @@ Open website
 Enter username
 Enter password
 Click login
-Verify result
+Verify 
+------------------------------------------------------------
 Experiment 9: TestNG
 Objective
 
@@ -544,6 +554,7 @@ mvn test
 Report location:
 
 target/surefire-reports
+----------------------------------------------------
 Experiment 10: Complete DevOps Lifecycle
 
 This is the integration of all previous experiments.
